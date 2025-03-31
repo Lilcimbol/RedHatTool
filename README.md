@@ -1,2 +1,14 @@
+
+https://www.canva.com/design/DAGis2lEdsE/-Hfrt8L6HfHMGfH2NuVXhA/view?utm_content=DAGis2lEdsE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h001ddb93eb
+
 # RedHatTool
-This is a complex multi tool using batch code and python (this includes a bat menu python menu and a whole gui waiting just for u come download it) also buy the paid version here https://discord.gg/buRa3QrR
+
+Hello User if you're reading this, this menu is a private source for now but will be opened when 25 people 
+                   join the discord here https://discord.gg/buRa3QrR
+
+# Requirements
+
+   - Must have python (https://www.python.org/downloads/)
+   - second run setup bat file and python to download all
+                the libraries required
+
